@@ -1,17 +1,17 @@
 ---
-title: Test
+title: First Post
 date: 2023-11-04 16:29:24
-featured_image: https://im.marieclaire.com.tw/s800c450h100b0/aq/2017/05/31/201705101945285612.png
+featured_image: images/aaa.jpeg
 tags:
 - 當代藝術
 - 水彩
 categories:
-- [photo]
+- [artworks]
 ---
 
 1231231
 
-![](./cover.jpg)
+![](./aaa.jpeg)
 
 asdfasdf
 asdfasdfasdf
